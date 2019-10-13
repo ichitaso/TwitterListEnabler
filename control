@@ -1,7 +1,7 @@
 Package: com.ichitaso.twitterlist
 Name: TwitterListEnabler
 Depends: mobilesubstrate
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Description: Twitter's official app allows to swipe through lists
 Depiction: https://cydia.ichitaso.com/depiction/twitterlist.html
